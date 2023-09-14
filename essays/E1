@@ -1,0 +1,17 @@
+---
+layout: essay
+type: essay
+title: "E1"
+# All dates must be YYYY-MM-DD format!
+date: 2023-09-13
+published: true
+labels:
+  - E1
+---
+
+For WOD 3.1, 3.2 and 3.3 I created a simple HTML file which had a brief summary of 3 different web browsers. The first version was jsut a html file with images of each logo and a few hyperlinks. 
+The next version of the website included a CSS file. I was able to make the website more aesthetically pleasing by using different fonts and font colors. I also changed the background color to ivory so it is easier to look at. I struggled with making the text and image inline with one another, but I was able to move the text up a little bit.
+For WOD 3.3 I created a table in CSS and used divs to move the summarys and the logo together. This makes the page look cleaner and more organized. I did struggle with creating a third column but I was able to fix my issue after I looked at other examples online. 
+
+Link to WODs 3:
+https://github.com/daisymar00/ITM352_repo/tree/main/WODs
