@@ -1,0 +1,29 @@
+{
+  "basics": {
+    "name": "Daisy Martinez",
+    "label": "MIS Student",
+    "picture": "https://github.com/daisymar00.png",
+    "email": "daisymar@hawaii.edu",
+    "website": "https://daisymar00.github.io",
+    "summary": "I am studying for a B.B.A. in Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "profiles": [
+      { "network": "github", "username": "daisymar00", "url": "http://github.com/daisymar00" },
+    ]
+  },
+  "interests": [
+    { "name": "Cooking" },
+    { "name": "Photoshop" },
+    { "name": "Going to the beach" },
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+}
